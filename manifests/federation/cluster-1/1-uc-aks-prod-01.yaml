@@ -1,0 +1,22 @@
+##01. create service account
+kubectl apply -f 1.1-federation-remote-sa.yaml
+
+##02. describe service account
+kubectl describe serviceaccounts tigera-federation-remote-cluster -n kube-system
+
+##03. retrieve the token of the service account
+kubectl describe secrets tigera-federation-remote-cluster-token-4b24j -n kube-system
+
+##04. create secret from remote cluster kube-config
+kubectl create secret generic remote-cluster-secret-uc-aks-prod-03 -n calico-system \
+    --from-literal=datastoreType=kubernetes \
+    --from-file=kubeconfig=../2-uc-aks-prod-03/2.2-kubeconfig-uc-aks-prod-03.yaml
+    
+##05. create RBAC for secret
+kubectl apply -f 1.3-rbac.yaml
+
+##06. remote cluster configuration
+kubectl apply -f 1.4-remoteclusterconfiguration.yaml
+
+##07 apply rbac for tigera-federation-remote-cluster sa
+kubectl apply -f 1.5-rbac-sa.yaml

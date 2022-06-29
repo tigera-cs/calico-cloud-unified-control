@@ -1,0 +1,9 @@
+apiVersion: projectcalico.org/v3
+kind: RemoteClusterConfiguration
+metadata:
+  name: cluster-us-aks-prod-03
+spec:
+  clusterAccessSecret:
+    name: remote-cluster-secret-uc-aks-prod-03
+    namespace: calico-system
+    kind: Secret
