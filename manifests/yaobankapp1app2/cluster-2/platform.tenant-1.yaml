@@ -1,0 +1,36 @@
+apiVersion: projectcalico.org/v3
+kind: GlobalNetworkPolicy
+metadata:
+  name: platform.tenant-1
+spec:
+  tier: platform
+  order: 0
+  selector: tenant == "tenant1"
+  namespaceSelector: ''
+  serviceAccountSelector: ''
+  ingress:
+    - action: Allow
+      source:
+        selector: tenant == "tenant1"
+        namespaceSelector: all()
+      destination: {}
+    - action: Allow
+      source:
+        namespaceSelector: projectcalico.org/name == "kube-system"
+      destination: {}
+  egress:
+    - action: Allow
+      source: {}
+      destination:
+        selector: tenant == "tenant1"
+        namespaceSelector: all()
+    - action: Allow
+      source: {}
+      destination:
+        namespaceSelector: projectcalico.org/name == "kube-system"
+  doNotTrack: false
+  applyOnForward: false
+  preDNAT: false
+  types:
+    - Ingress
+    - Egress
