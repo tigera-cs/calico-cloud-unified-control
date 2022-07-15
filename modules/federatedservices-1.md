@@ -52,6 +52,8 @@ kubectl apply -f manifests/bookinfo/cluster-2/bookinfocluster02.yaml
 ```bash
 kubectl apply -f manifests/bookinfo/cluster-2/ratingsfederated.yaml
 ```
+## Test Federated Services
+Look at the module video for testing the federated services. 
 
 ## Module Video
 [![Federated Endpoints](images/video-federated-services.png)](https://tigera.wistia.com/medias/s9a06bebnj)
