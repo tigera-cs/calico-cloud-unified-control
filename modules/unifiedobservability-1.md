@@ -24,6 +24,14 @@ Analyze how the deployments, services and remote cluster endpoints are depicted 
 #### 03. View - reviews federated service
 ![Observability for Federated Services](images/observability-cluster-1-3.png)
 
+### Cluster-2 Deployments and Federated Services
+Analyze how the deployments, services and remote cluster endpoints are depicted in the service graph of cluster-2
+
+#### 01. View - bookinfo namespace cluster-2
+![Observability for Federated Services](images/observability-cluster-2-1.png)
+
+#### 02. View - ratings federated service
+![Observability for Federated Services](images/observability-cluster-2-2.png)
 
 ## Module Video
 [![Observability for Federated Services](images/video-observability.png)](https://tigera.wistia.com/medias/qhwbjgh7qi)
