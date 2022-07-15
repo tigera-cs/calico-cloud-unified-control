@@ -18,19 +18,19 @@ Analyze how the deployments, services and remote cluster endpoints are depicted 
 #### <b>01. View - bookinfo namespace cluster-1</b>
 ![Observability for Federated Services](images/observability-cluster-1-1.png)
 
-#### 02. View - productpageext service
+#### <b>02. View - productpageext service</b>
 ![Observability for Federated Services](images/observability-cluster-1-2.png)
 
-#### 03. View - reviews federated service
+#### <b>03. View - reviews federated service</b>
 ![Observability for Federated Services](images/observability-cluster-1-3.png)
 
 ### Cluster-2 Deployments and Federated Services
 Analyze how the deployments, services and remote cluster endpoints are depicted in the service graph of cluster-2
 
-#### 01. View - bookinfo namespace cluster-2
+#### <b>01. View - bookinfo namespace cluster-2</b>
 ![Observability for Federated Services](images/observability-cluster-2-1.png)
 
-#### 02. View - ratings federated service
+#### <b>02. View - ratings federated service</b>
 ![Observability for Federated Services](images/observability-cluster-2-2.png)
 
 ## Module Video
