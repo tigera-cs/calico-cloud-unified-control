@@ -7,7 +7,7 @@ Supporting documentation for the Calico Cloud Unified Control Workshop. The obje
 ## Table of Contents
 
 01. Introduction
-2. [Module - Cluster Federation](https://github.com/aadhilam/cc-unified-control-workshopv2/blob/main/modules/federation.md)
+2. [Module - Cluster Federation](https://github.com/tigera-cs/calico-cloud-unified-control/blob/main/modules/federation.md)
 3. [Module - Federated Endpoints](https://github.com/aadhilam/cc-unified-control-workshopv2/blob/main/modules/federatedendpoints-1.md)
 4. [Module - Federated Services](https://github.com/aadhilam/cc-unified-control-workshopv2/blob/main/modules/federatedservices-1.md)
 5. [Module - Observability for Federated Services](https://github.com/aadhilam/cc-unified-control-workshopv2/blob/main/modules/unifiedobservability-1.md)
