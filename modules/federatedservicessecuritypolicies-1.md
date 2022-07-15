@@ -10,3 +10,6 @@
 1. Use the policy recommender to generate policies for the bookinfo deployments in cluster-01 and cluster-02
 2. Test connectivity to bookinfo microservices once policies are implemented
 3. Change policy behavior and test scenarios for traffic flows between deployments across cluster-01 and cluster-02
+
+## Module Video
+[![Policies for Federated Services](images/video-policies.png)](https://tigera.wistia.com/medias/etd1p701dk)
