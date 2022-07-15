@@ -15,7 +15,7 @@
 ### Cluster-1 Deployments and Federated Services
 Analyze how the deployments, services and remote cluster endpoints are depicted in the service graph of cluster-1
 
-#### 01. View - bookinfo namespace cluster-1
+#### <b>01. View - bookinfo namespace cluster-1</b>
 ![Observability for Federated Services](images/observability-cluster-1-1.png)
 
 #### 02. View - productpageext service
