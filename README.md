@@ -16,4 +16,4 @@ Supporting documentation for the Calico Cloud Unified Control Workshop. The obje
 
 ## Workshop Manifests
 
-[Manifest Folder](https://github.com/aadhilam/cc-unified-control-workshopv2/tree/main/manifests)
+[Manifest Folder](https://github.com/tigera-cs/calico-cloud-unified-control/tree/main/manifests)
