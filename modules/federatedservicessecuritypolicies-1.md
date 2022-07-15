@@ -14,11 +14,11 @@
 ## Implement Policies Using the Policy Recommender
 
 ### Security Policies - cluster-1
-Look at the module view for details on how the policy recommender was used to generated policies for cluster-1
+Look at the module video for details on how the policy recommender was used to generated policies for cluster-1
 ![Policies for Federated Services](images/policies-cluster-1.png)
 
 ### Security Policies - Cluster-2
-Look at the module view for details on how the policy recommender was used to generated policies for cluster-2
+Look at the module video for details on how the policy recommender was used to generated policies for cluster-2
 ![Policies for Federated Services](images/policies-cluster-2.png)
 
 ## Module Video
