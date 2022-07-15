@@ -10,3 +10,20 @@
 2. Evaluate deployments, services, and traffic flows between them
 3. Look at how federated services are depicted in the service graph
 
+## Service Graph
+
+### Cluster-1 Deployments and Federated Services
+Analyze how the deployments, services and remote cluster endpoints are depicted in the service graph of cluster-1
+
+### 01. View - bookinfo namespace cluster-1
+![Observability for Federated Services](images/observability-cluster-1-1.png)
+
+### 02. View - productpageext service
+![Observability for Federated Services](images/observability-cluster-1-2.png)
+
+### 03. View - reviews federated service
+![Observability for Federated Services](images/observability-cluster-1-3.png)
+
+
+## Module Video
+[![Observability for Federated Services](images/video-observability.png)](https://tigera.wistia.com/medias/qhwbjgh7qi)
