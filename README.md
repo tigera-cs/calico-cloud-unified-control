@@ -2,7 +2,7 @@
 
 ![Calico Cloud](https://docs.calicocloud.io/images/brand-new.png)
 
-Supporting documentation for the Calico Cloud Unified Control Workshop. The objective of this workshop is to help participants understand the cluster federations capabilities in Calico Cloud. The workshop contains demos for federated endpoints and federated services. 
+Supporting documentation for the Calico Cloud Unified Control Workshop. The objective of this workshop is to help participants understand the cluster federation capabilities in Calico Cloud. The workshop contains demos for federated endpoints and federated services. 
 
 ## Table of Contents
 
