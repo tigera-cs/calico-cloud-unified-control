@@ -1,8 +1,7 @@
-# Calico Cloud Unified Control Workshop
-
+# Calico Cluster-Mesh Workshop
 ![Calico Cloud](https://docs.calicocloud.io/images/brand-new.png)
 
-Supporting documentation for the Calico Cloud Unified Control Workshop. The objective of this workshop is to help participants understand the cluster federations capabilities in Calico Cloud. The workshop contains demos for federated endpoints and federated services. 
+Supporting documentation for the Calico cluster-mesh workshop. The workshop includes labs and video lessons to help participants understand and deploy Calico cluster-mesh. 
 
 ## Table of Contents
 
@@ -16,6 +15,15 @@ Supporting documentation for the Calico Cloud Unified Control Workshop. The obje
 
 ## Video Lessons
 
+[Cluster Federation](https://tigera.wistia.com/medias/0ym0e548z7)
+[Federated Endpoints](https://tigera.wistia.com/medias/t5znwissjs)
+[![Federated Endpoints](images/video-federated-services.png)](https://tigera.wistia.com/medias/s9a06bebnj)
+[![Policies for Federated Services](images/video-policies.png)](https://tigera.wistia.com/medias/etd1p701dk)
+[![Observability for Federated Services](images/video-observability.png)](https://tigera.wistia.com/medias/qhwbjgh7qi)
+
+
+
 ## Workshop Manifests
 
 [Manifest Folder](https://github.com/tigera-cs/calico-cloud-unified-control/tree/main/manifests)
+
