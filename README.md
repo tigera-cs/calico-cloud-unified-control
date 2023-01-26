@@ -17,9 +17,9 @@ Supporting documentation for the Calico cluster-mesh workshop. The workshop incl
 
 2. [Cluster Federation](https://tigera.wistia.com/medias/0ym0e548z7)
 3. [Federated Endpoints](https://tigera.wistia.com/medias/t5znwissjs)
-3. [Federated Endpoints](https://tigera.wistia.com/medias/s9a06bebnj)
-[![Policies for Federated Services](images/video-policies.png)](https://tigera.wistia.com/medias/etd1p701dk)
-[![Observability for Federated Services](images/video-observability.png)](https://tigera.wistia.com/medias/qhwbjgh7qi)
+4. [Federated Endpoints](https://tigera.wistia.com/medias/s9a06bebnj)
+4. [Security Policies for Federated Services](https://tigera.wistia.com/medias/etd1p701dk)
+5. [Observability for Federated Services](https://tigera.wistia.com/medias/qhwbjgh7qi)
 
 
 
