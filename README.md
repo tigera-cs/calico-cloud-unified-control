@@ -14,6 +14,8 @@ Supporting documentation for the Calico Cloud Unified Control Workshop. The obje
 6. [Module - Policies for Federated Services](https://github.com/tigera-cs/calico-cloud-unified-control/blob/main/modules/federatedservicessecuritypolicies-1.md)
 7. Module - Summary
 
+## Video Lessons
+
 ## Workshop Manifests
 
 [Manifest Folder](https://github.com/tigera-cs/calico-cloud-unified-control/tree/main/manifests)
