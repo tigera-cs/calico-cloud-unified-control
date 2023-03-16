@@ -1,4 +1,4 @@
-# Calico Cluster-Mesh Workshop
+# Calico Cluster Mesh Workshop
 ![Calico Cloud](https://docs.calicocloud.io/images/brand-new.png)
 
 Supporting documentation for the Calico cluster-mesh workshop. The workshop includes labs and video lessons to help participants understand and deploy Calico cluster-mesh. 
